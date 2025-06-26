@@ -1,3 +1,4 @@
-#This example erases one character (backspace):
-txt = "Hello \bWorld!"
-print(txt) 
+a = 5
+b = True
+c = a > 8
+d = b or c
