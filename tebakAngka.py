@@ -13,7 +13,7 @@ def tebak_angka():
         try:
             tebak = int(input(f"Tebakan ke-{percobaan + 1}: "))
         except ValueError:
-            print("Masukkan angka yaa, bukan huruf! 😜")
+            print("Masukkan angka yaa, bukan huruf!")
             continue
 
         percobaan += 1
