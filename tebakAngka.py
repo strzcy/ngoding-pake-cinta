@@ -3,7 +3,7 @@ import random
 def tebak_angka():
     angka_rahasia = random.randint(1, 20)
     percobaan = 0
-    max_percobaan = 5
+    max_percobaan = 10
 
     print(" GAME TEBAK ANGKA ")
     print("Aku sudah memilih angka dari 1 sampai 20.")
