@@ -19,9 +19,9 @@ def tebak_angka():
         percobaan += 1
 
         if tebak < angka_rahasia:
-            print("Terlalu kecil! 😅")
+            print("Terlalu kecil!")
         elif tebak > angka_rahasia:
-            print("Terlalu besar! 😅")
+            print("Terlalu besar!")
         else:
             print(f"YEAY! Kamu berhasil menebak dalam {percobaan} kali percobaan 🎉")
             break
