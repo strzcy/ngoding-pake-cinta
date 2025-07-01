@@ -28,5 +28,5 @@ def tebak_angka():
     else:
         print(f"Sayang banget, kamu kehabisan percobaan. Angkanya adalah {angka_rahasia} 😭")
 
-# Jalankan program
+
 tebak_angka()
