@@ -5,7 +5,7 @@ def tebak_angka():
     percobaan = 0
     max_percobaan = 5
 
-    print("=== GAME TEBAK ANGKA ===")
+    print(" GAME TEBAK ANGKA ")
     print("Aku sudah memilih angka dari 1 sampai 20.")
     print(f"Tebak dalam maksimal {max_percobaan} kali yaa!")
 
